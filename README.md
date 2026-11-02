@@ -4,8 +4,6 @@
 
  How to run: Download the latest release and run the jar file. .dat files should stay within the data folder or the game won't work.
 
- Eventually, I plan on adding an executable file.
-
  Screenshots:
 
  <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/5492f398-a00d-4a71-8595-5016208adf75" />
