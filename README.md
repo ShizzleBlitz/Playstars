@@ -2,8 +2,7 @@
  A simple pokemon clone created in Java utilizing libGDX.
 
 
- How to run:
- The project was created using the gdx_setup.jar file. In order to run it, the entire directory should be copied over and the DesktopLauncher.java file should be run.
+ How to run: Download the latest release and run the jar file. .dat files should stay within the data folder or the game won't work.
 
  Eventually, I plan on adding an executable file.
 
