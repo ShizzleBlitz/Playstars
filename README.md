@@ -8,11 +8,13 @@
  Eventually, I plan on adding an executable file.
 
  Screenshots:
- 
-<img width="310" height="250" alt="image" src="https://github.com/user-attachments/assets/cb11b0bc-e5a1-4d9d-adbd-56c47fabf51d" />
-<img width="310" height="250" alt="image" src="https://github.com/user-attachments/assets/235aa1c7-0c58-4ac7-970c-0f153ad19f88" />
-<img width="310" height="250" alt="image" src="https://github.com/user-attachments/assets/915f3b48-b4e5-41f1-8113-070026cf2722" />
-<img width="310" height="250" alt="image" src="https://github.com/user-attachments/assets/baf7162f-f149-40c6-8341-39072972acd0" />
-<img width="310" height="250" alt="image" src="https://github.com/user-attachments/assets/3437fec7-2b47-40a7-a0a1-04dca0f7bebd" />
+
+ <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/5492f398-a00d-4a71-8595-5016208adf75" />
+ <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/9559b0ff-86ae-4532-b5cd-9429bf54dd67" />
+ <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/05c3a19a-01f2-4e68-b68e-823ecd02059e" />
+ <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/bc2514dd-5042-488e-8e11-87edcec1fe7b" />
+ <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/cf7a14ad-5fac-4a8b-b452-5b3b66038bd7" />
+ <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/ce6c1d29-d4a2-4396-b017-87f9abbfa5d1" />
+
 
 
