@@ -171,8 +171,10 @@ public class BattleScene{
 						if (battle.getMons(1).getTemphp() == 0 && battle.getName().equals("TrainerBattle"))
 							enemySwitch();
 
-						if (battle.getMons(1).getTemphp() == 0 && battle.getName().equals("WildBattle"))
-							state = 5;
+						if (battle.getMons(1).getTemphp() == 0 && battle.getName().equals("WildBattle")) {
+                            enemySwitch();
+                            state = 5;
+                        }
 
 
 					}
@@ -300,8 +302,9 @@ public class BattleScene{
 		battleArena.clear();
 		//This variable keeps track of how many dead mons or null mons the enemy has.
 		//If it reaches 6, it means their entire team is empty and you've won the battle.
-		int deadenemy = 0;
-		int money = 0;
+
+        int deadenemy = 0;
+		int money = 350;
 		for (int i = 0; i < 6; i++)
 		{
 			try {
@@ -313,19 +316,18 @@ public class BattleScene{
 				}
 				else
 				{
-					money += 50;
 					deadenemy++;
 				}
 			}
 
 			catch(Exception a) {
 				//a.printStackTrace();
+                money -= 50;
 				deadenemy++;
 			}
 
 		}
 
-		System.out.println(deadenemy);
 		if (deadenemy == 6)
 		{
 			player.setMoney(player.getMoney()+money);
